@@ -1,4 +1,4 @@
 # basic-go-package
 
-# Running Program
+## Running Program
 go run main.go
